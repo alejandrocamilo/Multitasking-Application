@@ -1,0 +1,15 @@
+C:\Users\aleja\Desktop\Multitasking-Application\Multitasking-Application\bin\Debug\net5.0\Multitasking-Application.exe
+C:\Users\aleja\Desktop\Multitasking-Application\Multitasking-Application\bin\Debug\net5.0\Multitasking-Application.deps.json
+C:\Users\aleja\Desktop\Multitasking-Application\Multitasking-Application\bin\Debug\net5.0\Multitasking-Application.runtimeconfig.json
+C:\Users\aleja\Desktop\Multitasking-Application\Multitasking-Application\bin\Debug\net5.0\Multitasking-Application.runtimeconfig.dev.json
+C:\Users\aleja\Desktop\Multitasking-Application\Multitasking-Application\bin\Debug\net5.0\Multitasking-Application.dll
+C:\Users\aleja\Desktop\Multitasking-Application\Multitasking-Application\bin\Debug\net5.0\Multitasking-Application.pdb
+C:\Users\aleja\Desktop\Multitasking-Application\Multitasking-Application\obj\Debug\net5.0\Multitasking-Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Desktop\Multitasking-Application\Multitasking-Application\obj\Debug\net5.0\Multitasking-Application.AssemblyInfoInputs.cache
+C:\Users\aleja\Desktop\Multitasking-Application\Multitasking-Application\obj\Debug\net5.0\Multitasking-Application.AssemblyInfo.cs
+C:\Users\aleja\Desktop\Multitasking-Application\Multitasking-Application\obj\Debug\net5.0\Multitasking-Application.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\Multitasking-Application\Multitasking-Application\obj\Debug\net5.0\Multitasking-Application.dll
+C:\Users\aleja\Desktop\Multitasking-Application\Multitasking-Application\obj\Debug\net5.0\refint\Multitasking-Application.dll
+C:\Users\aleja\Desktop\Multitasking-Application\Multitasking-Application\obj\Debug\net5.0\Multitasking-Application.pdb
+C:\Users\aleja\Desktop\Multitasking-Application\Multitasking-Application\obj\Debug\net5.0\Multitasking-Application.genruntimeconfig.cache
+C:\Users\aleja\Desktop\Multitasking-Application\Multitasking-Application\obj\Debug\net5.0\ref\Multitasking-Application.dll
